@@ -3,4 +3,5 @@ icon: fas fa-info-circle
 order: 6
 ---
 
-[Example](http://example.com)
+* [Security Tapestry Website](https://securitytapestry.com)
+* [Security Tapestry FreshService](https://securitytapestry.freshservice.com)
