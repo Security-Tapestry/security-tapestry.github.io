@@ -5,4 +5,4 @@ order: 5
 
 ## MITRE WebApp
 
-<iframe src="https://security-tapestry.github.io/attack-navigator/v3/enterprise/" width="100%" height="100%"></iframe>
+<iframe src="https://security-tapestry.github.io/attack-navigator/v3/enterprise/" width="100%" height="1000px"></iframe>
