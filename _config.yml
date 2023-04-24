@@ -28,7 +28,7 @@ description: >- # used by seo meta and the atom feed
   A Resource Blog for Security Tapestry Customers
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://security-tapestry.github.io"
 
 github:
   username: Security-Tapestry # change to your github username
@@ -43,11 +43,12 @@ social:
   email: threat-hunting@securitytapestry.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/SecTapestry # change to your twitter homepage
     - https://github.com/Security-Tapestry # change to your github homepage
+    - https://twitter.com/SecTapestry # change to your twitter homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/people/Security-Tapestry/100078925930026/
     # - https://www.linkedin.com/in/username
+    - https://www.youtube.com/channel/UCi7QbMdMCZblpSA15d_K7Qg
 
 google_site_verification: # fill in to your verification string
 
@@ -199,3 +200,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  - jekyll-redirect-from

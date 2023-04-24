@@ -1,7 +1,6 @@
 ---
 icon: fas fa-info-circle
-order: 6
+order: 5
 ---
 
-* [Security Tapestry Website](https://securitytapestry.com)
-* [Security Tapestry FreshService](https://securitytapestry.freshservice.com)
+* [MITRE ATT&CK Navigator](https://security-tapestry.github.io/attack-navigator/v3/enterprise/)
