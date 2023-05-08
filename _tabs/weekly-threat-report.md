@@ -20,7 +20,7 @@ order: 1
 
 > Tip: Comes out every week
 
-[Threat Report Archive](https://github.com/Security-Tapestry/nvd-cve-api-search/tree/main/archive)
+[Threat Report Archive](https://github.com/SecurityTapestry-Queen/nvd-cve-api-search/tree/main/archive)
 
 <div>
 <iframe src="https://securitytapestry-queen.github.io/nvd-cve-api-search/"></iframe>
