@@ -12,7 +12,8 @@ order: 1
     }
 </style>
 
-<!-- > Tip: Scroll to the right to see the whole table -->
+> Scroll to the right if you cannot see the whole table
+{: .prompt-tip }
 
 > Search by Manufacturer or Product one at a time (e.g. Dell, Cisco, Apple)
 {: .prompt-tip }
