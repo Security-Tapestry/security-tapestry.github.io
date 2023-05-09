@@ -1,9 +1,11 @@
 ---
 title: Testing Post
-author: Security-Tapestry
 categories: [Testing]
 tags: [testing]
 render_with_liquid: false
+# image:
+#   path: /assets/img/nextgen.webp
+#   alt: alt text
 ---
 
 ## Testing Post

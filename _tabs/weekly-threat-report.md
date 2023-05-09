@@ -12,13 +12,16 @@ order: 1
     }
 </style>
 
-> Tip: Scroll to the right to see the whole table
+<!-- > Tip: Scroll to the right to see the whole table -->
 
-> Tip: Search by Manufacturer or Product one at a time (e.g. Dell, Cisco, Apple)
+> Search by Manufacturer or Product one at a time (e.g. Dell, Cisco, Apple)
+{: .prompt-tip }
 
-> Tip: Click on columns to sort
+> Click on columns to sort
+{: .prompt-tip }
 
-> Tip: Comes out every week
+> Comes out every week
+{: .prompt-tip }
 
 [Threat Report Archive](https://github.com/SecurityTapestry-Queen/nvd-cve-api-search/tree/main/archive)
 
