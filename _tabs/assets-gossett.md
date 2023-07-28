@@ -14,5 +14,5 @@ published: false
 </style>
 
 <div>
-<iframe src="https://securitytapestry-queen.github.io/nvd-cve-api-search/"></iframe>
+<iframe src="https://security-tapestry.github.io/gossett-assets/"></iframe>
 </div>
