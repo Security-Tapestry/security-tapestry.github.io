@@ -1,7 +1,7 @@
 ---
 icon: fas fa-info-circle
 order: 6
-published: false
+exclude: true
 ---
 
 <style>
