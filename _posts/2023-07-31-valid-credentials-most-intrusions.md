@@ -4,8 +4,7 @@ categories: [Security]
 tags: [valid,credentials,cyber,intrusions,cisa]
 render_with_liquid: false
 image: /assets/img/CISA_header.jpg
-# published: false
-date: 2023-07-31 10:00
+date: 2023-07-31 9:50
 ---
 
 > The success rate of these techniques underscores the staying power of the most common methods threat actors use to gain initial access to targeted systems.
