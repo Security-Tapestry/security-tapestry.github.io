@@ -30,8 +30,8 @@ description: >- # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://security-tapestry.github.io"
 
-github:
-  username: Security-Tapestry # change to your github username
+# github:
+  # username: Security-Tapestry # change to your github username
 
 twitter:
   username: SecTapestry # change to your twitter username
@@ -43,7 +43,7 @@ social:
   email: threat-hunting@securitytapestry.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/Security-Tapestry # change to your github homepage
+    # - https://github.com/Security-Tapestry # change to your github homepage
     - https://twitter.com/SecTapestry # change to your twitter homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/people/Security-Tapestry/100078925930026/

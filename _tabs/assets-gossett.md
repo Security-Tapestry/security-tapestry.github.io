@@ -1,6 +1,7 @@
 ---
 icon: fas fa-info-circle
 order: 6
+title: Gossett Motors Assets
 exclude: true
 ---
 
