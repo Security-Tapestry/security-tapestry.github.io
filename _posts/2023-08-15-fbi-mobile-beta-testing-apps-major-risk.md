@@ -1,5 +1,5 @@
 ---
-title: FBI: Mobile Beta-Testing Apps Are Major Security Risk
+title: FBI - Mobile Beta-Testing Apps Are Major Security Risk
 categories: [Vulnerabilities/Threats]
 tags: [mobile,beta,testing,apps,major,security,risk]
 render_with_liquid: false
