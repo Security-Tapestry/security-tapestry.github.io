@@ -22,11 +22,6 @@ exclude: true
 > Click on columns to sort
 {: .prompt-tip }
 
-> Comes out every week
-{: .prompt-tip }
-
-[Threat Report Archive](https://github.com/SecurityTapestry-Queen/nvd-cve-api-search/tree/main/archive)
-
 <div>
 <iframe src="https://securitytapestry-queen.github.io/nvd-cve-api-search/"></iframe>
 </div>
